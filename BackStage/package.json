@@ -13,9 +13,11 @@
     "axios": "^1.2.0",
     "echarts": "^5.4.0",
     "element-plus": "^2.2.25",
+    "js-cookie": "^3.0.1",
     "less": "^4.1.3",
     "mockjs": "^1.1.0",
     "vue": "^3.2.41",
+    "vue-baidu-map": "^0.21.22",
     "vue-router": "^4.1.6",
     "vuex": "^4.1.0"
   },
